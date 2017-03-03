@@ -15,7 +15,7 @@ public class Sorter
     {
         try 
         {
-            BufferedReader obj = new BufferedReader(new FileReader(f + ".TXT"));
+            BufferedReader obj = new BufferedReader(new FileReader("data/" + f + ".TXT"));
             String line, line2, line3;
             String word = "AB";
             boolean checker = true;
@@ -30,12 +30,12 @@ public class Sorter
                     BufferedWriter obj2;
                     if (checker) 
                     {
-                        obj2 = new BufferedWriter(new FileWriter(f + "_Edited.TXT"));
+                        obj2 = new BufferedWriter(new FileWriter("data/" + f + "_Edited.TXT"));
                         checker = false;
                     } 
                     else 
                     {
-                        obj2 = new BufferedWriter(new FileWriter(f + "_Edited.TXT", true));
+                        obj2 = new BufferedWriter(new FileWriter("data/" + f + "_Edited.TXT", true));
                     }
                     obj2.write(line3);
                     obj2.newLine();
@@ -43,7 +43,7 @@ public class Sorter
                 }
             }
             obj.close();
-            obj = new BufferedReader(new FileReader(f + "_Edited.TXT"));
+            obj = new BufferedReader(new FileReader("data/" + f + "_Edited.TXT"));
             String[] subs = {" 105", " 027", " 028", " 029", " 030", " 037", " 039", " 040", " 041", " 042", " 043", " 044", " 045", " 048", " 054", " 055", " 065", " 066", " 067", " 072", " 083", " 301", " 302"};
             String[] names = {"BENGALI", "HISTORY", "POLITICAL SCIENCE", "GEOGRAPHY", "ECONOMICS", "PSYCHOLOGY", "SOCIOLOGY", "PHILOSOPHY", "MATHEMATICS", "PHYSICS", "CHEMISTRY", "BIOLOGY", "BIOTECHNOLOGY", "PHYSICAL EDUCATION", "BUSINESS STUDIES", "ACCOUNTANCY", "INFORMATICS PRACTICE", "ENTREPRENEURSHIP", "MULTIMEDIA & WEB TECHNOLOGY", "MASS MEDIA STUDIES", "COMPUTER SCIENCE", "ENGLISH CORE", "HINDI CORE"};
             String subv[] = new String[subs.length];
@@ -98,7 +98,7 @@ public class Sorter
                         break;
                     }
                 }
-                obj = new BufferedReader(new FileReader(f + "_Edited.TXT"));
+                obj = new BufferedReader(new FileReader("data/" + f + "_Edited.TXT"));
                 String lin;
                 while ((lin = obj.readLine()) != null) 
                 {
@@ -128,6 +128,7 @@ public class Sorter
         } 
         catch (Exception e) 
         {
+            e.printStackTrace();
             JOptionPane.showMessageDialog(null, "File entered does not exist!");
             return null;
         }

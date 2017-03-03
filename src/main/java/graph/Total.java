@@ -25,7 +25,7 @@ public class Total
         ArrayList < Integer > fr = new ArrayList < Integer > ();
         try 
         {
-            BufferedReader obj = new BufferedReader(new FileReader(f + "_Edited.TXT"));
+            BufferedReader obj = new BufferedReader(new FileReader("data/" + f + "_Edited.TXT"));
             String line;
             while ((line = obj.readLine()) != null) 
             {
@@ -78,7 +78,7 @@ public class Total
             {
                 data.setValue(fr.get(0), "Number of Students", "AB");
             }
-            JFreeChart chart = ChartFactory.createBarChart("graph.Total Percentage", "Marks", "Number of students", data, PlotOrientation.VERTICAL, false, true, false);
+            JFreeChart chart = ChartFactory.createBarChart("Total Percentage", "Marks", "Number of students", data, PlotOrientation.VERTICAL, false, true, false);
             CategoryPlot bc = chart.getCategoryPlot();
             bc.setRangeGridlinePaint(Color.BLUE);
             panel = new ChartPanel(chart);

@@ -65,7 +65,7 @@ public class Main extends JPanel
                     totp.add(tot.panel, BorderLayout.CENTER);
                     totp.add(new JLabel("Mean: " + tot.mean), BorderLayout.SOUTH);
                     totp.validate();
-                    tp.add("graph.Total Percentage", totp);
+                    tp.add("Total Percentage", totp);
                     for (int a = 0; a < p.length; a++) 
                     {
                         tp.add(grph[a].nm, p[a]);
@@ -109,7 +109,8 @@ public class Main extends JPanel
         init();
         obj.setJMenuBar(obj2);
         obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        obj.setResizable(false);
+        obj.setResizable(true);
+        obj.setSize(700, 600);
         obj.setVisible(true);
         obj.setExtendedState(JFrame.MAXIMIZED_BOTH);
         obj.add(ob);
