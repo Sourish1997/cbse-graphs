@@ -1,0 +1,600 @@
+
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 1
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624380 ABHISHEK RAY                     301 095   A1   042 095   A1   043 097   A1   041 095   A1   044 091   A2                     A1 A2 A1 PASS
+6624381 ADRIJA GHOSH                     301 088   A2   042 080   B1   043 063   C2   041 053   C1   044 094   A2   048 081   A2      A1 A1 A2 PASS
+6624382 ADRINEIL MAZUMDAR                301 093   A2   042 082   A2   043 095   A1   041 072   B1   044 094   A2                     A1 A1 A1 PASS
+6624383 AMRITA SINGH ROY                 301 085   B1   042 095   A1   043 095   A1   041 090   A2   044 091   A2                     A1 A1 A1 PASS
+6624384 ANUSHKA SENGUPTA                 301 090   A2   042 081   B1   043 074   B2   041 072   B1   044 093   A2   048 076   B1      A1 A1 A2 PASS
+6624385 ARCHISHNA BHATTACHARYA           301 090   A2   042 094   A1   043 095   A1   041 083   A2   044 095   A1                     A2 A1 A1 PASS
+6624386 ARNABH SENGUPTA                  301 095   A1   042 095   A1   043 095   A1   041 095   A1   044 090   A2                     A1 A1 A1 PASS
+6624387 ARPITA MANDAL                    301 093   A2   042 082   A2   043 084   B1   041 048   C2   044 095   A1                     A1 A1 A2 PASS
+6624388 AVILAS SAHA                      301 095   A1   042 076   B1   043 089   A2   041 081   A2   044 094   A2                     A1 A2 A1 PASS
+6624389 BISWADEEP SAHA                   301 092   A2   042 091   A1   043 094   A2   041 086   A2   044 088   B1   048 085   A2      A2 A1 A1 PASS
+6624390 DEBARGHYA DUTTA                  301 095   A1   042 096   A1   043 095   A1   041 095   A1   044 095   A1                     A1 A1 A1 PASS
+6624391 DIPTESH MAHAJAN                  301 093   A2   042 083   A2   043 094   A2   041 082   A2   044 092   A2                     A2 A2 A1 PASS
+6624392 DONA MUKHERJEE                   301 085   B1   042 071   B2   043 088   B1   041 068   B2   044 088   B1   048 076   B1      A1 A2 A2 PASS
+6624393 ISHANI CHAUDHURI                 301 095   A1   042 078   B1   043 094   A2   041 083   A2   044 095   A1                     A1 A1 A1 PASS
+6624394 JAYANT KUMAR SUPPAL              301 092   A2   042 093   A1   043 095   A1   041 056   C1   044 095   A1                     A1 A1 A1 PASS
+6624395 KAUSTAV RAY                      301 093   A2   042 079   B1   043 071   C1   041 068   B2   044 085   B1                     A2 A2 A2 PASS
+6624396 MANSI KASHYAP                    301 095   A1   042 077   B1   043 084   B1   041 068   B2   044 094   A2                     A2 A1 A1 PASS
+6624397 MONJIMA KUNDU                    301 079   B2   042 062   C2   043 070   C1   041 041   D1   044 084   B1   048 073   B2      A2 A2 A2 PASS
+6624398 OINDRILLA CHATTERJEE             301 087   B1   042 059   D1   043 063   C2   041 035   D2   044 081   B2   048 072   B2      A2 A2 A2 PASS
+6624399 PANCHALI SAHA                    301 095   A1   042 079   B1   043 095   A1   041 084   A2   044 095   A1                     A2 A1 A1 PASS
+6624400 PAYEL GUPTA                      301 095   A1   042 087   A2   043 092   A2   041 064   B2   044 095   A1                     A2 A2 A1 PASS
+6624401 PRIYANKAN GOSWAMI                301 091   A2   042 091   A1   043 095   A1   041 085   A2   044 082   B2                     A1 A1 A1 PASS
+6624402 RAJARSHI SENGUPTA                301 095   A1   042 072   B2   043 085   B1   041 069   B1   044 094   A2   048 083   A2      A1 A1 A1 PASS
+6624403 RITABRATA BASAK                  301 095   A1   042 080   B1   043 093   A2   041 080   A2   044 095   A1                     A2 A2 A1 PASS
+6624404 ROHAN MITTAL                     301 085   B1   042 091   A1   043 095   A1   041 091   A2   044 094   A2                     A2 A1 A1 PASS
+6624405 SANJANA SEN                      301 091   A2   042 063   C2   043 076   B2   041 070   B1   044 094   A2                     A1 A1 A2 PASS
+6624406 SAPTAK BHATTACHARYA              301 093   A2   042 092   A1   043 094   A2   041 095   A1   044 095   A1                     A2 A2 A1 PASS
+6624407 SAPTARSHI ROY                    301 095   A1   042 095   A1   043 095   A1   041 095   A1   044 091   A2                     A2 A2 A1 PASS
+6624408 SAYAK MITRA                      301 095   A1   042 078   B1   043 094   A2   041 055   C1   044 094   A2                     A1 A2 A1 PASS
+6624409 SAYAN CHOWDHURY                  301 092   A2   042 092   A1   043 095   A1   041 093   A1   044 094   A2                     A1 A1 A1 PASS
+6624410 SHATADRU BOSE                    301 095   A1   042 095   A1   043 095   A1   041 090   A2   044 095   A1                     A1 A2 A1 PASS
+6624411 SHIMONA ROY CHOWDHURY            301 095   A1   042 095   A1   043 095   A1   041 095   A1   044 095   A1                     A1 A1 A1 PASS
+6624412 SHREYANSH PARAKH                 301 093   A2   042 094   A1   043 094   A2   041 071   B1   044 094   A2   048 088   A1      A1 A1 A1 PASS
+6624413 SIDDHARTH NAYAK                  301 095   A1   042 096   A1   043 095   A1   041 095   A1   044 090   A2                     A1 A1 A1 PASS
+6624414 SUBARNA PAL                      301 095   A1   042 095   A1   043 094   A2   041 095   A1   044 095   A1                     A1 A1 A1 PASS
+6624415 TANUJA BISWAS                    301 090   A2   042 076   B1   043 079   B2   041 049   C2   044 091   A2   048 082   A2      A1 A1 A2 PASS
+6624416 UDDIP DATTA RAY                  301 091   A2   042 083   A2   043 080   B2   041 068   B2   044 079   B2                     A2 A1 A2 PASS
+6624417 UPASHANA PATRO                   301 093   A2   042 095   A1   043 095   A1   041 095   A1   044 095   A1                     A2 A1 A1 PASS
+6624418 AATREYEE GHOSH                   301 083   B1   042 059   D1   043 064   C2   041 036   D2   044 061   D1   048 066   C1      A2 A1 A2 PASS
+6624419 ABHIROOP BANERJEE                301 081   B2   042 056   D1   043 062   D1   041 048   C2   044 061   D1   048 059   D1      A1 A1 A2 PASS
+6624420 ABHISHEK GHOSH                   301 090   A2   042 060   D1   043 077   B2   041 072   B1   044 083   B2   048 066   C1      A1 A2 A1 PASS
+6624421 ADITYA CHAKRABORTY               301 090   A2   042 062   C2   043 095   A1   041 073   B1   044 090   A2   048 062   C2      A2 A2 A1 PASS
+6624422 ADITYA BIKRAM MAITY              301 092   A2   042 093   A1   043 089   A2   041 082   A2   044 072   C1                     A1 A1 A1 PASS
+6624423 AMAN KUMAR SHAW                  301 094   A1   042 071   B2   043 080   B2   041 084   A2   044 092   A2   048 084   A2      A1 A2 A1 PASS
+6624424 AMRITA DEB                       301 079   B2   042 066   C1   043 071   C1   041 033   D2   044 085   B1   048 064   C2      A2 A2 B1 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 2
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624425 ANISHA PANIGRAHI                 301 088   A2   042 071   B2   043 061   D1   041 077   B1   044 064   D1   048 079   B1      A1 A2 A1 PASS
+6624426 ANJAN DAS                        301 095   A1   042 094   A1   043 094   A2   041 082   A2   044 095   A1                     A2 A1 A1 PASS
+6624427 ANKITA GHOSH                     301 095   A1   042 053   D2   043 067   C2   041 033   D2   044 073   C1   048 087   A2      A1 A1 A2 PASS
+6624428 AYUSHI MUKHERJEE                 301 095   A1   042 064   C2   043 072   C1   041 036   D2   044 068   C2   048 061   C2      A1 A1 A2 PASS
+6624429 DEBANJAN BHATTACHARJEE           301 091   A2   042 091   A1   043 093   A2   041 087   A2   044 090   A2                     A1 A1 A1 PASS
+6624430 DEVANK K RUPANI                  301 093   A2   042 074   B2   043 092   A2   041 072   B1   044 095   A1                     A2 A1 A1 PASS
+6624431 DIYA BISWAS                      301 093   A2   042 072   B2   043 070   C1   041 054   C1   044 076   C1   048 075   B2      A2 A2 A1 PASS
+6624432 HIRAL M MEHTA                    301 095   A1   042 080   B1   043 095   A1   041 064   B2   044 095   A1   048 086   A2      A1 A2 A1 PASS
+6624433 INDRANI MITRA                    301 095   A1   042 067   C1   043 066   C2   041 059   C1   044 088   B1   048 083   A2      A2 A1 A1 PASS
+6624434 INZAMAMUL HAQUE                  301 094   A1   042 082   A2   043 078   B2   041 083   A2   044 072   C1                     A2 A2 A2 PASS
+6624435 KAUSTAV MAJUMDAR                 301 090   A2   042 055   D1   043 050   D2   041 034   D2   044 075   C1   048 086   A2      A2 A1 A1 PASS
+6624436 MALLICKARJOON ROY                301 095   A1   042 063   C2   043 070   C1   041 049   C2   044 090   A2   048 093   A1      B1 A2 A2 PASS
+6624437 NEHA DUTTA                       301 094   A1   042 074   B2   043 064   C2   041 070   B1   044 077   C1   048 083   A2      A1 B1 A2 PASS
+6624438 OINDRILA BOSE                    301 095   A1   042 066   C1   043 074   B2   041 073   B1   044 076   C1   048 086   A2      A2 A2 A1 PASS
+6624439 PRERNA PATRA                     301 092   A2   042 061   D1   043 080   B2   041 053   C1   044 093   A2   048 086   A2      A1 A2 A2 PASS
+6624440 RAJATENDRA RAY                   301 074   C1   042 070   B2   043 074   B2   041 040   D1   044 072   C1   048 073   B2      A1 A1 A1 PASS
+6624441 RAJNI CHANDAK                    301 090   A2   042 067   C1   043 075   B2   041 088   A2   044 092   A2   048 082   A2      A1 A2 A1 PASS
+6624442 RISHA DASGUPTA                   301 085   B1   042 067   C1   043 076   B2   041 048   C2   044 085   B1   048 082   A2      A1 A2 A1 PASS
+6624443 RISHAV SHOME                     301 074   C1   042 070   B2   043 070   C1   041 058   C1   044 069   C2                     A1 A2 A2 PASS
+6624444 SAPTARSSHI MUKHERJEE             301 093   A2   042 083   A2   043 084   B1   041 088   A2   044 093   A2                     A1 A1 A1 PASS
+6624445 SHIVANGI PANDEY                  301 089   A2   042 073   B2   043 081   B1   041 054   C1   044 083   B2   048 087   A2      A2 A2 A1 PASS
+6624446 SHRUTI ARYA                      301 095   A1   042 074   B2   043 092   A2   041 092   A1   044 094   A2   048 076   B1      A1 A1 A1 PASS
+6624447 SOHAM RAY                        301 084   B1   042 064   C2   043 066   C2   041 056   C1   044 094   A2   048 088   A1      A1 A2 A2 PASS
+6624448 SOUMYAJIT HALDER                 301 085   B1   042 074   B2   043 089   A2   041 068   B2   044 091   A2                     A2 A2 A1 PASS
+6624449 SOUNOMI SASMAL                   301 089   A2   042 077   B1   043 094   A2   041 079   A2   044 090   A2                     A1 A1 A1 PASS
+6624450 SREEMOYEE MADHURA KARMAKAR       301 091   A2   042 059   D1   043 062   D1   041 056   C1   044 093   A2   048 088   A1      A1 A2 A2 PASS
+6624451 SUKANYA CHOWDHURY                301 095   A1   042 067   C1   043 071   C1   041 052   C1   044 090   A2   048 086   A2      A1 A1 A2 PASS
+6624452 SUKANYA SINGH                    301 093   A2   042 070   B2   043 067   C2   041 048   C2   044 089   B1   048 086   A2      A2 A1 A1 PASS
+6624453 SUPARNA CHATTOPADHYAY            301 095   A1   042 062   C2   043 075   B2   041 052   C1   044 093   A2                     A1 A1 A2 PASS
+6624454 ABHISHEK DAS                     301 095   A1   042 095   A1   043 095   A1   041 095   A1   044 095   A1                     A1 A1 A1 PASS
+6624455 AGNIDHRA CHAKRABORTY             301 095   A1   042 077   B1   043 084   B1   041 084   A2   044 094   A2                     A1 A1 A1 PASS
+6624456 AKSHITA KAUSHIK                  301 084   B1   042 070   B2   043 088   B1   041 040   D1   044 095   A1                     A1 A1 A1 PASS
+6624457 ANANYA DAS                       301 095   A1   042 095   A1   043 096   A1   041 095   A1   044 095   A1   048 099   A1      A1 A1 A1 PASS
+6624458 ANGELA PAUL                      301 096   A1   042 075   B2   043 084   B1   041 080   A2   044 095   A1   048 086   A2      A1 A2 A1 PASS
+6624459 ANIRUDDHA BERA                   301 080   B2   042 084   A2   043 075   B2   041 090   A2   044 087   B1                     A2 A1 A1 PASS
+6624460 ANISHA BHOWMICK                  301 090   A2   042 073   B2   043 080   B2   041 063   B2   044 092   A2                     A1 A2 A2 PASS
+6624461 ANKIT KUMAR BASU                 301 093   A2   042 055   D1   043 060   D1   041 049   C2   044 086   B1   048 086   A2      A2 A2 A2 PASS
+6624462 ANURAG ROY                       301 094   A1   042 094   A1   043 094   A2   041 095   A1   044 094   A2                     A2 A2 A2 PASS
+6624463 ANWESHA BISWAS                   301 090   A2   042 082   A2   043 094   A2   041 094   A1   044 094   A2                     A1 A2 A1 PASS
+6624464 ARNAV SINHA                      301 094   A1   042 069   C1   043 092   A2   041 070   B1   044 095   A1   048 085   A2      A1 A2 A2 PASS
+6624465 ATREYEE SENGUPTA                 301 095   A1   042 065   C1   043 072   C1   041 063   B2   044 090   A2   048 098   A1      A1 A1 A1 PASS
+6624466 BEDANTA PAL                      301 095   A1   042 090   A1   043 095   A1   041 095   A1   044 089   B1                     A1 A1 A1 PASS
+6624467 BHAVYA SHARMA                    301 095   A1   042 081   B1   043 095   A1   041 095   A1   044 095   A1   048 093   A1      B1 A2 A1 PASS
+6624468 DEBAYAN BANERJEE                 301 089   A2   042 079   B1   043 082   B1   048 080   B1   044 087   B1   041 009F  E       B1 A1 B1 PASS
+6624469 INSHA AHMED                      301 087   B1   042 068   C1   043 079   B2   041 041   D1   044 073   C1   048 076   B1      A2 A2 A2 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 3
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624470 JAYA BHARTI                      301 095   A1   042 069   C1   043 064   C2   041 039   D1   044 092   A2   048 069   C1      A2 A2 A2 PASS
+6624471 JHILAM SINHA                     301 093   A2   042 090   A1   043 081   B1   041 077   B1   044 095   A1                     A1 A2 A2 PASS
+6624472 NAYANIKA DEY                     301 095   A1   042 084   A2   043 090   A2   041 079   A2   044 087   B1                     A1 A1 A1 PASS
+6624473 NILOY GHOSH                      301 095   A1   042 095   A1   043 095   A1   041 095   A1   044 095   A1                     A1 A1 A1 PASS
+6624474 PARVEZ AHMED                     301 078   B2   042 070   B2   043 063   C2   041 033   D2   044 080   B2   048 057   D1      A2 A2 A2 PASS
+6624475 PRIYANTA BASAK                   301 091   A2   042 085   A2   043 084   B1   041 066   B2   044 095   A1                     A1 A2 A2 PASS
+6624476 RAJLAXMI SAHA                    301 095   A1   042 095   A1   043 097   A1   041 095   A1   044 095   A1   048 093   A1      A1 A1 A1 PASS
+6624477 RASHMILA MITRA                   301 088   A2   042 091   A1   043 094   A2   041 082   A2   044 094   A2                     A1 A1 A1 PASS
+6624478 RISHI BAID                       301 095   A1   042 087   A2   043 081   B1   041 077   B1   044 092   A2   048 086   A2      A1 A1 A2 PASS
+6624479 RITABRATA SANTRA                 301 093   A2   042 089   A2   043 089   A2   041 095   A1   044 094   A2                     A1 A1 A1 PASS
+6624480 SAGNIK BANERJEE                  301 079   B2   042 083   A2   043 078   B2   041 079   A2   044 089   B1                     A2 A2 A2 PASS
+6624481 SHREYA DUTTA                     301 095   A1   042 069   C1   043 086   B1   041 071   B1   044 093   A2   048 090   A1      A1 A2 A2 PASS
+6624482 SHREYANSH SONI                   301 089   A2   042 088   A2   043 091   A2   041 085   A2   044 083   B2                     A1 A1 A1 PASS
+6624483 SHREYASI GALUI                   301 089   A2   042 072   B2   043 069   C1   041 048   C2   044 081   B2   048 078   B1      A2 A2 A2 PASS
+6624484 SOUVIK SAHA                      301 093   A2   042 095   A1   043 095   A1   041 082   A2   044 095   A1                     A1 A1 A1 PASS
+6624485 SRAVASTI MUKHERJEE               301 095   A1   042 084   A2   043 095   A1   041 074   B1   044 090   A2                     A1 A1 A1 PASS
+6624486 SRITAMA SEN                      301 090   A2   042 078   B1   043 080   B2   041 064   B2   044 091   A2   048 076   B1      A2 A2 A2 PASS
+6624487 ADYA PRABHA                      301 095   A1   042 084   A2   043 082   B1   041 079   A2   083 092   A2                     A1 A2 A1 PASS
+6624488 AGNIBHA ROY                      301 094   A1   042 091   A1   043 099   A1   041 095   A1   083 096   A1                     A1 A1 A2 PASS
+6624489 AKSHAT VATSAL                    301 093   A2   042 095   A1   043 095   A1   041 096   A1   083 099   A1                     A1 A1 A1 PASS
+6624490 AMARTYA BHUSHAN                  301 092   A2   042 070   B2   043 076   B2   041 068   B2   083 078   B2                     A1 A1 A1 PASS
+6624491 ANAMITRA SEN                     301 090   A2   042 092   A1   043 082   B1   041 081   A2   083 082   B2                     A1 A2 A1 PASS
+6624492 ANKUR KEJRIWAL                   301 088   A2   042 081   B1   043 077   B2   041 094   A1   083 094   A1                     A1 A1 A1 PASS
+6624493 ANKUSH ROY                       301 095   A1   042 095   A1   043 095   A1   041 095   A1   083 079   B2   048 072   B2      A1 A1 A1 PASS
+6624494 ANURAG CHOUDHURY                 301 092   A2   042 088   A2   043 095   A1   041 095   A1   083 091   A2                     A2 A1 A1 PASS
+6624495 ARIJIT SAHA                      301 076   B2   042 091   A1   043 094   A2   041 093   A1   083 089   A2                     A1 A1 A2 PASS
+6624496 ARNAV SHARMA                     301 093   A2   042 098   A1   043 095   A1   041 096   A1   083 092   A2                     A1 A1 A1 PASS
+6624497 CHANDRAMITA BHATTACHARYA         301 091   A2   042 094   A1   043 095   A1   041 089   A2   083 092   A2                     A1 A1 A1 PASS
+6624498 HARSH MITTAL                     301 083   B1   042 089   A2   043 095   A1   041 083   A2   083 088   A2                     A1 A1 A1 PASS
+6624499 IPSHIT BASAK                     301 095   A1   042 093   A1   043 095   A1   041 095   A1   083 098   A1                     A1 A1 A1 PASS
+6624500 ISHAAN GHOSH                     301 095   A1   042 096   A1   043 097   A1   041 098   A1   083 097   A1                     A1 A1 A1 PASS
+6624501 ISHANI DE                        301 087   B1   042 094   A1   043 095   A1   041 093   A1   083 096   A1                     A1 A1 A1 PASS
+6624502 KASHYAP MATTOO                   301 095   A1   042 095   A1   043 096   A1   041 095   A1   083 098   A1                     A1 A1 A1 PASS
+6624503 KAUSTAV BANDYOPADHYAY            301 095   A1   042 079   B1   043 078   B2   041 095   A1   083 091   A2                     A1 A2 A1 PASS
+6624504 KEDAR NATH DUTTA                 301 079   B2   042 080   B1   043 075   B2   041 064   B2   083 081   B2                     A2 A2 A1 PASS
+6624505 KORAKANA ASHISH                  301 090   A2   042 095   A1   043 095   A1   041 090   A2   083 089   A2                     A1 A1 A2 PASS
+6624506 KRITTIKA TANEJA                  301 088   A2   042 092   A1   043 091   A2   041 083   A2   083 094   A1                     A2 A2 A1 PASS
+6624507 NILESH MUKHERJEE                 301 092   A2   042 095   A1   043 095   A1   041 095   A1   083 097   A1                     A1 A1 A1 PASS
+6624508 C NIVEDITHA                      301 093   A2   042 095   A1   043 095   A1   041 092   A1   083 089   A2                     A1 A1 A1 PASS
+6624509 PRATIBHA AGARWAL                 301 095   A1   042 093   A1   043 095   A1   041 095   A1   083 097   A1                     A1 A1 A1 PASS
+6624510 PRATYASHA DAS                    301 089   A2   042 089   A2   043 095   A1   041 095   A1   083 097   A1                     A1 A1 A1 PASS
+6624511 RAHUL MUKHERJEE                  301 093   A2   042 087   A2   043 094   A2   041 079   A2   083 087   B1                     A1 A1 A1 PASS
+6624512 RAJKANYA DATTA                   301 082   B1   042 080   B1   043 088   B1   041 095   A1   083 091   A2                     A1 A1 A2 PASS
+6624513 RAUNAK KEDIA                     301 091   A2   042 094   A1   043 095   A1   041 088   A2   083 092   A2                     A2 A2 A1 PASS
+6624514 RAUNAQ SAHA                      301 085   B1   042 095   A1   043 096   A1   041 079   A2   083 097   A1                     A1 A1 A2 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 4
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624515 RITWIK CHAKRABORTY               301 095   A1   042 095   A1   043 095   A1   041 099   A1   083 098   A1                     A1 A1 A1 PASS
+6624516 ROUNAK SEN                       301 094   A1   042 095   A1   043 095   A1   041 095   A1   083 095   A1                     A1 A1 A1 PASS
+6624517 RUDRANGSHU NANDI                 301 095   A1   042 093   A1   043 088   B1   041 092   A1   083 089   A2                     A1 A1 A1 PASS
+6624518 SAGARIKA DAM                     301 095   A1   042 093   A1   043 088   B1   041 080   A2   083 085   B1                     A1 A2 A1 PASS
+6624519 SHRABASTI SAHA                   301 095   A1   042 088   A2   043 095   A1   041 080   A2   083 083   B1                     A1 A1 A1 PASS
+6624520 SNEHAL MAZUMDER                  301 083   B1   042 086   A2   043 094   A2   041 092   A1   083 091   A2                     A1 A1 A1 PASS
+6624521 SOHAM MARIK                      301 095   A1   042 095   A1   043 096   A1   041 098   A1   083 096   A1                     A1 A1 A1 PASS
+6624522 SOUMYA PAL                       301 095   A1   042 092   A1   043 093   A2   041 081   A2   083 093   A2                     A2 A2 A1 PASS
+6624523 SOUVIK GHOSH                     301 087   B1   042 062   C2   043 080   B2   041 094   A1   083 073   C1                     A2 A1 A2 PASS
+6624524 SWAPNIL MALLICK                  301 095   A1   042 088   A2   043 095   A1   041 061   B2   083 090   A2                     A1 A1 A2 PASS
+6624525 SYED WASIQUL HAQUE               301 092   A2   042 093   A1   043 095   A1   041 086   A2   083 096   A1                     A1 A1 A1 PASS
+6624526 TRYAMBAK DE                      301 095   A1   042 099   A1   043 098   A1   041 095   A1   083 097   A1                     A1 A1 A1 PASS
+6624527 VIGNESH THAKKAR                  301 085   B1   042 095   A1   043 093   A2   041 095   A1   083 095   A1                     A2 A2 A1 PASS
+6624528 ZUBIN DATTA CHOUDHARY            301 082   B1   042 093   A1   043 082   B1   041 090   A2   083 086   B1                     A1 A1 A2 PASS
+6624529 ADHIRAJ BANERJEE                 301 084   B1   042 065   C1   043 070   C1   041 048   C2   030 067   B1   048 050   D2      A1 A2 A2 PASS
+6624530 AMAN BUBNA                       301 080   B2   042 081   B1   043 076   B2   041 068   B2   030 089   A2                     A2 A2 A2 PASS
+6624531 AMAN PANESAR                     301 080   B2   042 074   B2   043 076   B2   041 066   B2   030 083   A2   048 055   D1      A2 A2 A2 PASS
+6624532 AMAN AGRAWAL                     301 091   A2   042 070   B2   043 083   B1   041 055   C1   030 084   A2                     A2 A1 A2 PASS
+6624533 AMOGHA BHARDWAJ                  301 095   A1   042 095   A1   043 095   A1   041 095   A1   030 095   A1   048 064   C2      A1 A1 A1 PASS
+6624534 ANINDITA ROY                     301 089   A2   042 097   A1   043 099   A1   041 095   A1   030 095   A1                     A1 A1 A1 PASS
+6624535 ANKITA CHAKRABORTY               301 094   A1   042 073   B2   043 077   B2   041 077   B1   030 093   A1                     A1 A1 A1 PASS
+6624536 ANKUR BANERJEE                   301 089   A2   042 071   B2   043 079   B2   041 049   C2   030 088   A2                     A1 A1 A1 PASS
+6624537 ARNAB MUKHERJEE                  301 076   B2   042 061   D1   043 057   D1   041 033   D2   030 046   C2   048 054   D1      A1 A1 B1 PASS
+6624538 BIDITA SHENOY                    301 095   A1   042 095   A1   043 095   A1   041 090   A2   030 095   A1   048 065   C1      A1 A1 A1 PASS
+6624539 HITESH BANTHIA                   301 081   B2   042 057   D1   043 063   C2   041 036   D2   030 079   A2   048 051   D2      A2 A1 A2 PASS
+6624540 ISHAN KAIRVAR                    301 066   C2   042 061   D1   043 062   D1   041 040   D1   030 047   C2   048 054   D1      A2 A1 A2 PASS
+6624541 MAYANK KHERIA                    301 080   B2   042 090   A1   043 081   B1   041 083   A2   030 092   A1                     A1 A1 A1 PASS
+6624542 POORVA SINHA                     301 087   B1   042 076   B1   043 075   B2   041 060   B2   030 073   B1                     A1 A1 A1 PASS
+6624543 PRIYANKA DE                      301 095   A1   042 084   A2   043 087   B1   041 084   A2   030 076   B1                     A1 A1 A1 PASS
+6624544 PROMA DATTA                      301 085   B1   042 074   B2   043 072   C1   041 065   B2   030 087   A2                     A1 A1 A1 PASS
+6624545 RADHAVENDRA KUMAR                301 095   A1   042 072   B2   043 057   D1   041 035   D2   030 068   B1   048 059   D1      A1 A1 A2 PASS
+6624546 RIDDHO ROY                       301 085   B1   042 094   A1   043 090   A2   041 076   B1   030 095   A1   048 055   D1      A1 A1 A1 PASS
+6624547 RITUSHREE DAS                    301 081   B2   042 065   C1   043 065   C2   041 038   D1   030 084   A2   048 086   A2      A1 A1 B1 PASS
+6624548 RUCHITA BOSE                     301 072   C1   042 059   D1   043 055   D2   041 039   D1   030 053   C1   048 069   C1      A1 A1 B1 PASS
+6624549 RUPKATHA DAS                     301 091   A2   042 095   A1   043 092   A2   041 086   A2   030 096   A1                     A1 A1 A1 PASS
+6624550 SAPTARCHITA DATTA                301 095   A1   042 088   A2   043 095   A1   041 078   B1   030 095   A1                     A1 A1 A1 PASS
+6624551 SAYAN SANYAL                     301 095   A1   042 095   A1   043 095   A1   041 093   A1   030 095   A1                     A1 A1 A1 PASS
+6624552 SAYATI DAS                       301 091   A2   042 074   B2   043 075   B2   041 067   B2   030 095   A1                     A1 A1 A1 PASS
+6624553 SHAYANKI ROY CHOWDHURY           301 088   A2   042 079   B1   043 066   C2   041 041   D1   030 080   A2   048 084   A2      A2 A2 A2 PASS
+6624554 SHOUMIK BOSE                     301 094   A1   042 094   A1   043 092   A2   041 079   A2   030 095   A1   048 088   A1      A1 A1 A1 PASS
+6624555 SHREYA SURANA                    301 088   A2   042 082   A2   043 087   B1   041 095   A1   030 095   A1                     A1 A1 A1 PASS
+6624556 SNEHA CHAND                      301 085   B1   042 093   A1   043 095   A1   041 059   C1   030 095   A1                     A1 A1 A1 PASS
+6624557 SUBHAM AGARWAL                   301 092   A2   042 083   A2   043 077   B2   041 070   B1   030 095   A1                     A2 A2 A1 PASS
+6624558 SUBHANGI GHOSH                   301 088   A2   042 049   D2   043 060   D1   041 037   D2   030 073   B1   048 084   A2      A2 A2 A2 PASS
+6624559 SWAPNIL GHOSE                    301 095   A1   042 062   C2   043 065   C2   041 034   D2   030 085   A2   048 085   A2      A2 A1 A2 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 5
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624560 TAMOJEET CHANDA                  301 090   A2   042 081   B1   043 085   B1   041 054   C1   030 094   A1   048 084   A2      A2 A2 A2 PASS
+6624561 TANMAY JOSHI                     301 095   A1   042 095   A1   043 097   A1   041 095   A1   030 095   A1                     A1 A1 A1 PASS
+6624562 TRIDHA GHOSAL                    301 095   A1   042 072   B2   043 060   D1   048 071   B2   030 064   B2   041 009F  E       A1 A1 A1 PASS
+6624563 VAISHNAVI GUPTA                  301 095   A1   042 086   A2   043 086   B1   041 071   B1   030 094   A1                     A1 A2 A1 PASS
+6624564 AAYUSH KUMAR TAPADIA             301 095   A1   042 080   B1   043 072   C1   041 069   B1   083 087   B1                     A1 A2 A1 PASS
+6624565 ADITYA MUKHERJEE                 301 095   A1   042 094   A1   043 084   B1   041 048   C2   083 080   B2                     A1 A2 A1 PASS
+6624566 ADITYA CHATTERJEE                301 092   A2   042 070   B2   043 078   B2   041 052   C1   083 081   B2                     A2 A1 A1 PASS
+6624567 AINDRANI SARKER                  301 095   A1   042 077   B1   043 075   B2   041 071   B1   083 076   C1                     A1 A1 A1 PASS
+6624568 ANIRUDDH RAWAT                   301 088   A2   042 078   B1   043 090   A2   041 064   B2   083 087   B1                     A2 A2 A1 PASS
+6624569 ANKIT MUKHERJEE                  301 085   B1   042 066   C1   043 055   D2   041 033   D2   083 054   D2   048 075   B2      A2 A1 A2 PASS
+6624570 ANKITA BHATTACHARYA              301 084   B1   042 059   D1   043 062   D1   041 054   C1   083 061   D1                     A1 A1 A2 PASS
+6624571 ANKUSH TRIPATHI                  301 087   B1   042 095   A1   043 095   A1   041 092   A1   083 089   A2                     A1 A1 A1 PASS
+6624572 ANUSHKA BISWAS                   301 088   A2   042 072   B2   043 075   B2   041 074   B1   083 070   C2                     A1 A2 A1 PASS
+6624573 ARITRA RAHA                      301 078   B2   042 062   C2   043 063   C2   041 070   B1   083 060   D1   048 071   B2      A2 A1 A2 PASS
+6624574 ARYA BISWAS                      301 086   B1   042 093   A1   043 080   B2   041 062   B2   083 084   B1   048 093   A1      A1 A1 A1 PASS
+6624575 ARYAMAAN SINHA                   301 092   A2   042 077   B1   043 081   B1   041 072   B1   083 069   C2   048 079   B1      A1 A2 A1 PASS
+6624576 AYUSH ROY                        301 091   A2   042 064   C2   043 069   C1   041 069   B1   083 081   B2   048 084   A2      A1 A1 A1 PASS
+6624577 DIVYANSHU ABHINEET               301 094   A1   042 075   B2   043 076   B2   041 056   C1   083 073   C1                     A1 A1 A1 PASS
+6624578 DURJOY CHOWDHURY                 301 085   B1   042 058   D1   043 063   C2   041 040   D1   083 076   C1   048 078   B1      A1 A2 A1 PASS
+6624579 HARSHIT AGARWAL                  301 092   A2   042 091   A1   043 090   A2   041 069   B1   083 086   B1                     A1 A1 A1 PASS
+6624580 ISHAAN KUMAR                     301 087   B1   042 076   B1   043 063   C2   041 059   C1   083 063   D1   048 084   A2      A1 A1 A2 PASS
+6624581 JYOTISHKA MUKHOPADHYAY           301 067   C2   042 064   C2   043 065   C2   041 051   C2   083 060   D1   048 058   D1      A2 A1 A2 PASS
+6624582 MEHUL JAIN                       301 064   C2   042 065   C1   043 070   C1   041 059   C1   083 075   C1   048 074   B2      A2 A1 A2 PASS
+6624583 NANDINI MUNDA                    301 088   A2   042 079   B1   043 083   B1   041 067   B2   083 076   C1                     A1 A2 A1 PASS
+6624584 PRASANNA KUMAR                   301 089   A2   042 092   A1   043 096   A1   041 079   A2   083 099   A1                     A2 A2 A1 PASS
+6624585 RANGEET CHATTERJEE               301 087   B1   042 066   C1   043 074   B2   041 066   B2   083 060   D1                     A1 A1 A1 PASS
+6624586 RAUNAK NATH                      301 095   A1   042 094   A1   043 090   A2   041 095   A1   083 094   A1                     A2 A2 A1 PASS
+6624587 REETESH NAG                      301 088   A2   042 084   A2   043 082   B1   041 054   C1   083 076   C1   048 083   A2      A1 A1 A2 PASS
+6624588 RISHABH JAIN                     301 092   A2   042 071   B2   043 079   B2   041 052   C1   083 071   C1   048 089   A1      A1 A1 A1 PASS
+6624589 RITWIK N RAWAL                   301 095   A1   042 092   A1   043 095   A1   041 086   A2   083 081   B2                     A1 A1 A1 PASS
+6624590 RITWIK BHAUMIK                   301 088   A2   042 069   C1   043 081   B1   041 061   B2   083 080   B2   048 087   A2      A1 A1 A2 PASS
+6624591 ROHAN PAUL                       301 089   A2   042 066   C1   043 079   B2   041 059   C1   083 067   C2   048 077   B1      A1 A1 A2 PASS
+6624592 SAHIL MAHAJAN                    301 095   A1   042 095   A1   043 095   A1   041 095   A1   083 078   B2                     A1 A1 A1 PASS
+6624593 SAYANTAN SAHA                    301 094   A1   042 077   B1   043 083   B1   041 081   A2   083 082   B2   048 081   A2      A1 A1 A1 PASS
+6624594 SHIVAM THAKER                    301 091   A2   042 082   A2   043 074   B2   041 082   A2   083 066   C2                     A1 A1 A2 PASS
+6624595 SHUBHAM GUPTA                    301 090   A2   042 093   A1   043 095   A1   041 095   A1   083 094   A1                     A1 A2 A1 PASS
+6624596 SMARTA SEN                       301 080   B2   042 087   A2   043 095   A1   041 082   A2   083 078   B2                     A2 A2 A1 PASS
+6624597 SNEHA KHASNABIS                  301 092   A2   042 072   B2   043 062   D1   041 036   D2   083 067   C2                     A2 A2 A1 PASS
+6624598 SOUPAL PAUL                      301 070   C1   042 089   A2   043 094   A2   041 084   A2   083 092   A2                     A2 A1 A1 PASS
+6624599 SOURAV PAUL                      301 084   B1   042 069   C1   043 074   B2   041 048   C2   083 052   D2                     A2 A1 A2 PASS
+6624600 SRIJANI CHAKRABORTY              301 095   A1   042 085   A2   043 095   A1   041 081   A2   083 089   A2                     A1 A1 A1 PASS
+6624601 SUBHRAJYOTI PRADHAN              301 090   A2   042 067   C1   043 068   C1   041 065   B2   083 076   C1   048 084   A2      A1 A1 A1 PASS
+6624602 SWAGATA KARMAKAR                 301 095   A1   042 072   B2   043 068   C1   041 068   B2   083 077   B2                     A1 A1 A1 PASS
+6624603 SWAPNIL KISHORE                  301 091   A2   042 080   B1   043 088   B1   041 060   B2   083 079   B2   048 068   C1      A1 A1 A1 PASS
+6624604 TAMAGHNA RAY                     301 082   B1   042 067   C1   043 068   C1   041 009F  E    083 066   C2                     A2 A2 A2 COMP
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 6
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624605 AMAN KUMAR AGARWAL               301 092   A2   042 088   A2   043 085   B1   041 095   A1   083 096   A1   048 086   A2      A1 A1 A1 PASS
+6624606 ANSHUL KUMAR SHANDILYA           301 086   B1   042 065   C1   043 063   C2   041 048   C2   083 078   B2   048 062   C2      A2 A2 A2 PASS
+6624607 ANURAG CHOUDHARY                 301 088   A2   042 088   A2   043 095   A1   041 087   A2   083 095   A1                     A1 A1 A1 PASS
+6624608 ARATRIKA DAS                     301 080   B2   042 065   C1   043 062   D1   041 039   D1   083 057   D1   048 063   C2      A2 A1 A2 PASS
+6624609 ARUNAVA BISWAS                   301 079   B2   042 074   B2   043 062   D1   041 041   D1   083 073   C1   048 068   C1      A1 A1 A2 PASS
+6624610 ASHISH MUKHERJEE                 301 077   B2   042 069   C1   043 064   C2   048 081   A2   083 069   C2   041 011F  E       A1 A1 A2 PASS
+6624611 ATUL KUMAR KAR                   301 090   A2   042 090   A1   043 092   A2   041 095   A1   083 093   A2   048 078   B1      A1 A1 A1 PASS
+6624612 DEBASHIS KARMAKAR                301 095   A1   042 095   A1   043 093   A2   041 089   A2   083 085   B1                     A1 A1 A1 PASS
+6624613 DEBJEET BHATTACHARYYA            301 075   B2   042 062   C2   043 064   C2   041 041   D1   083 051   D2   048 060   C2      A2 A2 A2 PASS
+6624614 DEEPTANSHU DAS                   301 070   C1   042 054   D1   043 053   D2   041 055   C1   083 065   C2                     A1 A2 A2 PASS
+6624615 DIPTESH SAHA                     301 084   B1   042 060   D1   043 063   C2   041 049   C2   083 072   C1   048 070   C1      A2 A2 A2 PASS
+6624616 GAYATHRI NAIR                    301 087   B1   042 095   A1   043 095   A1   041 082   A2   083 093   A2                     A1 A1 A1 PASS
+6624617 GOURAV KARMAKAR                  301 070   C1   042 049   D2   048 057   D1   041 035   D2   083 052   D2   043 036FT E       A2 A2 A2 PASS
+6624618 HARSHIT DUGAR                    301 090   A2   042 074   B2   043 070   C1   041 048   C2   083 062   D1                     A1 A1 A2 PASS
+6624619 HIMANSHU SHARMA                  301 087   B1   042 076   B1   043 077   B2   041 092   A1   083 073   C1                     A1 A1 A1 PASS
+6624620 JAYASH KAUSHAL                   301 087   B1   042 082   A2   043 093   A2   041 087   A2   083 082   B2                     A1 A1 A1 PASS
+6624621 KUSHAL BATRA                     301 095   A1   042 095   A1   043 095   A1   041 069   B1   083 081   B2                     A1 A1 A1 PASS
+6624622 MAYANK KEJRIWAL                  301 091   A2   042 092   A1   043 095   A1   041 095   A1   083 094   A1                     A1 A1 A1 PASS
+6624623 NIBRASS ENAYATH                  301 089   A2   042 061   D1   043 062   D1   041 044   D1   083 063   D1   048 063   C2      A1 A2 A2 PASS
+6624624 PARIJAAT MONDAL                  301 055   D1   042 049   D2   043 051   D2   041 033   D2   083 044FT E    048 044FT E       A2 A2 B1 COMP
+6624625 PRATYUSH JAIN                    301 088   A2   042 089   A2   043 082   B1   041 085   A2   083 092   A2                     A1 A1 A1 PASS
+6624626 PRITAM MUNSHI                    301 094   A1   042 079   B1   043 081   B1   041 068   B2   083 092   A2                     A1 A1 A1 PASS
+6624627 RAGHAV SARDA                     301 077   B2   042 079   B1   043 071   C1   041 048   C2   083 067   C2                     A1 A1 A1 PASS
+6624628 ROHAN MISHRA                     301 087   B1   042 072   B2   043 069   C1   041 033   D2   083 069   C2   048 081   A2      A2 A2 A2 PASS
+6624629 ROHAN SINGH RAWAL                301 095   A1   042 085   A2   043 095   A1   041 067   B2   083 085   B1                     A1 A1 A1 PASS
+6624630 SACHIN SEKHAR                    301 087   B1   042 095   A1   043 093   A2   041 089   A2   083 079   B2                     A1 A1 A1 PASS
+6624631 SAGARIKA GHOSH                   301 095   A1   042 086   A2   043 076   B2   041 060   B2   083 065   C2                     A1 A2 A1 PASS
+6624632 SAMARPAN SAHA                    301 091   A2   042 072   B2   043 058   D1   041 045   D1   083 066   C2   048 056   D1      A1 A2 A2 PASS
+6624633 SAYAN DUTTA                      301 075   B2   042 074   B2   043 073   C1   041 070   B1   083 088   A2                     A1 A2 A2 PASS
+6624634 SHAMBADITYA TARAFDER             301 090   A2   042 076   B1   043 075   B2   041 053   C1   083 061   D1                     A2 A2 A2 PASS
+6624635 SHAURYA DUTTA                    301 091   A2   042 073   B2   043 076   B2   041 053   C1   083 075   C1                     A1 A1 A1 PASS
+6624636 SHRAYAN BANERJEE                 301 095   A1   042 086   A2   043 082   B1   041 056   C1   083 070   C2                     A1 A2 A2 PASS
+6624637 SHUBHAM SHAH                     301 081   B2   042 062   C2   043 060   D1   041 048   C2   083 063   D1   048 053   D2      A1 A1 B1 PASS
+6624638 SOHAM SINHA                      301 095   A1   042 083   A2   043 079   B2   041 068   B2   083 065   C2   048 059   D1      A2 A2 A2 PASS
+6624639 SOURABRATA MANDAL                301 087   B1   042 085   A2   043 080   B2   041 060   B2   083 066   C2                     A1 A2 A2 PASS
+6624640 SUBHOJEET PRAMANIK               301 092   A2   042 095   A1   043 095   A1   041 093   A1   083 090   A2   048 083   A2      A1 A2 A1 PASS
+6624641 AAYUSH AGARWAL                   301 095   A1   055 094   A1   054 094   A2   030 095   A1   041 074   B1                     A2 A1 A2 PASS
+6624642 ABHISHEK BURMAN                  301 094   A1   055 084   A2   054 094   A2   030 083   A2   041 069   B1                     A2 A2 A2 PASS
+6624643 AKHIL KUMAR BOTHRA               301 095   A1   055 094   A1   054 095   A1   030 093   A1   041 058   C1                     A2 A2 A2 PASS
+6624644 AMAN SINGAL                      301 094   A1   055 094   A1   054 093   A2   030 095   A1   041 070   B1                     A2 A2 A2 PASS
+6624645 ANCHAL DUDHERIA                  301 085   B1   055 089   A2   054 089   A2   030 078   A2   041 059   C1                     A2 A1 A1 PASS
+6624646 ANKIT PRASAD                     301 090   A2   055 095   A1   054 095   A1   030 095   A1   041 083   A2                     A1 A1 A2 PASS
+6624647 ANKIT PARSON                     301 094   A1   055 094   A1   054 095   A1   030 093   A1   041 064   B2                     A2 A1 A2 PASS
+6624648 ANKIT SHARMA                     301 089   A2   055 093   A2   054 093   A2   030 095   A1   041 071   B1                     A2 B1 B1 PASS
+6624649 ANKITA GHOSH                     301 084   B1   055 093   A2   054 082   B1   030 064   B2   041 033   D2                     A2 B1 B1 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 7
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624650 ANUBHAV DAS                      301 089   A2   055 093   A2   054 094   A2   030 088   A2   041 074   B1                     A2 A1 A1 PASS
+6624651 ANUSHKA SRIVASTAVA               301 095   A1   055 095   A1   054 095   A1   030 096   A1   041 095   A1                     A1 A1 A2 PASS
+6624652 CHETAN SONI                      301 095   A1   055 094   A1   054 094   A2   030 095   A1   041 068   B2                     A1 A2 A1 PASS
+6624653 CHETAN AGARWAL                   301 091   A2   055 095   A1   054 095   A1   030 095   A1   041 078   B1                     A1 A1 A2 PASS
+6624654 CHIRAG GOENKA                    301 094   A1   055 092   A2   054 094   A2   030 092   A1   041 063   B2                     A2 A2 A2 PASS
+6624655 DEVYANK BACHHAWAT                301 095   A1   055 092   A2   054 094   A2   030 088   A2   041 048   C2                     A2 A1 A1 PASS
+6624656 DHANANJAY CHOWDHURY              301 095   A1   055 097   A1   054 095   A1   030 098   A1   041 095   A1                     A1 A1 A2 PASS
+6624657 DHIRU GOEL                       301 083   B1   055 094   A1   054 089   A2   030 095   A1   041 085   A2                     A2 A2 A2 PASS
+6624658 HARSHIT DHANUKA                  301 088   A2   055 093   A2   054 093   A2   030 094   A1   041 072   B1                     A2 A2 A2 PASS
+6624659 ISHA BOTHRA                      301 075   B2   055 094   A1   054 094   A2   030 091   A1   041 063   B2                     A2 A1 A2 PASS
+6624660 MANALI NARAYAN JOSHI             301 095   A1   055 095   A1   054 095   A1   030 095   A1   041 092   A1                     A1 A2 A1 PASS
+6624661 MANMAY SARAWAGI                  301 074   C1   055 093   A2   054 082   B1   030 095   A1   041 062   B2                     A1 A1 A1 PASS
+6624662 MONIKA BANSAL                    301 095   A1   055 098   A1   054 095   A1   030 095   A1   041 095   A1                     A1 A1 A1 PASS
+6624663 NIKHIL BAGREE                    301 094   A1   055 095   A1   054 095   A1   030 095   A1   041 085   A2                     A2 A1 A1 PASS
+6624664 PAROMITA MUKHERJEE               301 095   A1   055 095   A1   054 094   A2   030 095   A1   041 074   B1                     A1 A1 A1 PASS
+6624665 PIYUSH AGARWAL                   301 095   A1   055 094   A1   054 094   A2   030 095   A1   041 089   A2                     A1 A2 A1 PASS
+6624666 RAJESHWARI GHOSH                 301 095   A1   055 095   A1   054 095   A1   030 095   A1   041 086   A2                     A1 A2 A1 PASS
+6624667 RISHABH JAIN                     301 093   A2   055 098   A1   054 095   A1   030 098   A1   041 093   A1                     A1 A1 A1 PASS
+6624668 SAAKSHI DUSEJA                   301 095   A1   055 095   A1   054 095   A1   030 096   A1   041 093   A1                     A1 A1 A1 PASS
+6624669 SAKSHI MORE                      301 086   B1   055 093   A2   054 093   A2   030 098   A1   041 095   A1                     A1 A2 B1 PASS
+6624670 SAMEER BOOBNA                    301 095   A1   055 095   A1   054 095   A1   030 099   A1   041 095   A1                     A1 A1 A1 PASS
+6624671 STUTI MODI                       301 095   A1   055 095   A1   054 094   A2   030 098   A1   041 095   A1                     A1 A2 A2 PASS
+6624672 VANSHIKA JUNEJA                  301 095   A1   055 098   A1   054 095   A1   030 099   A1   041 095   A1                     A1 A1 A1 PASS
+6624673 VIDIT MORE                       301 058   C2   055 086   A2   054 083   B1   030 091   A1   041 079   A2                     B1 A2 B1 PASS
+6624674 VIVEK MANTRI                     301 095   A1   055 098   A1   054 095   A1   030 097   A1   041 098   A1                     A1 A1 A1 PASS
+6624675 YASH GUPTA                       301 075   B2   055 077   B1   054 094   A2   030 095   A1   041 060   B2                     A2 A1 A2 PASS
+6624676 AMAN AHMED                       301 092   A2   055 085   A2   054 083   B1   030 093   A1   041 051   C2                     A1 A1 A1 PASS
+6624677 AMAN DAGA                        301 095   A1   055 078   B1   054 088   B1   030 079   A2   041 059   C1                     A2 A1 A2 PASS
+6624678 AMAN DHANUKA                     301 090   A2   055 095   A1   054 094   A2   030 095   A1   041 069   B1                     A1 A1 A1 PASS
+6624679 ANANT JAIN                       301 090   A2   055 094   A1   054 094   A2   030 087   A2   041 048   C2                     A2 A2 A2 PASS
+6624680 ANJANEYA GUPTA                   301 092   A2   055 089   A2   054 063   C2   030 071   B1   041 043   D1                     A1 A2 A1 PASS
+6624681 ASHISH AGARWAL                   301 091   A2   055 095   A1   054 084   B1   030 095   A1   041 044   D1                     A1 A1 A1 PASS
+6624682 BHARGAV SHAH                     301 089   A2   055 083   A2   054 059   D1   030 080   A2   041 035   D2                     A1 A2 A1 PASS
+6624683 CHANDAR AGARWAL                  301 095   A1   055 095   A1   054 095   A1   030 095   A1   041 072   B1                     A1 A1 A1 PASS
+6624684 HARSH DUGAR                      301 091   A2   055 066   B2   054 072   C1   030 085   A2   041 048   C2                     A1 A1 A1 PASS
+6624685 HRIDAY PUJARA                    301 080   B2   055 080   B1   054 094   A2   030 089   A2   041 061   B2                     A1 A2 A1 PASS
+6624686 JAYAN BHATTACHARJEE              301 095   A1   055 067   B2   054 076   B2   030 080   A2   041 037   D2                     A2 A1 A2 PASS
+6624687 NITIKA ATHWANI                   301 091   A2   055 060   C2   054 085   B1   030 077   A2   041 033   D2                     A1 A2 A1 PASS
+6624688 NITIN BHUTORIA                   301 076   B2   055 085   A2   054 077   B2   030 095   A1   041 063   B2                     A1 A2 A1 PASS
+6624689 PAYAL AROON CHAKRABORTY          301 072   C1   055 067   B2   054 059   D1   030 069   B1   041 033   D2                     A2 A2 A2 PASS
+6624690 PRANAV KUMAR KESHAN              301 086   B1   055 085   A2   054 084   B1   030 071   B1   041 048   C2                     A2 A2 A2 PASS
+6624691 PRIYAM H SANGHVI                 301 089   A2   055 070   B2   054 078   B2   030 095   A1   041 052   C1                     B1 A2 B1 PASS
+6624692 RAHUL DUTTA                      301 092   A2   055 084   A2   054 084   B1   030 090   A1   041 043   D1                     A1 A2 A1 PASS
+6624693 RAJAT AGARWAL                    301 091   A2   055 095   A1   054 093   A2   030 095   A1   041 080   A2                     A1 A1 A1 PASS
+6624694 RAJAT AGARWAL                    301 083   B1   055 095   A1   054 089   A2   030 095   A1   041 061   B2                     A1 A2 A1 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 8
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624695 RAMA SHARMA                      301 095   A1   055 095   A1   054 092   A2   030 095   A1   041 071   B1                     A1 A1 A1 PASS
+6624696 RISHAV JALAN                     301 074   C1   055 061   C1   054 076   B2   030 072   B1   041 036   D2                     B1 A2 B1 PASS
+6624697 SANCHIT NARAIN                   301 083   B1   055 093   A2   054 094   A2   030 095   A1   041 066   B2                     A1 A1 A1 PASS
+6624698 SAYANI CHAKRABORTY               301 084   B1   055 095   A1   054 094   A2   030 095   A1   041 076   B1                     A1 A2 A1 PASS
+6624699 SHARMADA PATI                    301 084   B1   055 064   C1   054 082   B1   030 071   B1   041 050   C2                     A2 A2 A2 PASS
+6624700 SIMRN DAS                        301 095   A1   055 076   B1   054 082   B1   030 085   A2   041 069   B1                     A1 A1 B1 PASS
+6624701 SURYANSH PARASRAMKA              301 087   B1   055 095   A1   054 073   B2   030 082   A2   041 081   A2                     A1 A1 A1 PASS
+6624702 TANVEE SHETHIA                   301 095   A1   055 067   B2   054 095   A1   030 080   A2   041 035   D2                     A2 B1 A2 PASS
+6624703 TANVI AGARWAL                    301 091   A2   055 094   A1   054 089   A2   030 095   A1   041 054   C1                     A2 A2 A2 PASS
+6624704 VAIBHAV GHELANI                  301 087   B1   055 095   A1   054 066   C1   030 095   A1   041 054   C1                     A1 A1 A1 PASS
+6624705 VARUN JAIN                       301 079   B2   055 064   C1   054 069   C1   030 061   B2   041 036   D2                     A1 A1 A1 PASS
+6624706 VEDANT GARG                      301 089   A2   055 076   B1   054 084   B1   030 089   A2   041 062   B2                     A1 A1 A1 PASS
+6624707 VISHAL SAXENA                    301 090   A2   055 091   A2   054 077   B2   030 093   A1   041 052   C1                     A1 A2 A1 PASS
+6624708 ADITYA KEDIA                     301 095   A1   055 095   A1   054 096   A1   030 095   A1   041 095   A1                     A2 A2 A1 PASS
+6624709 ANKITA GHOSH                     301 091   A2   055 067   B2   054 062   C2   030 075   B1   041 048   C2                     A1 A2 A2 PASS
+6624710 ANSHUMAN SARAOGI                 301 091   A2   055 095   A1   054 095   A1   030 095   A1   041 087   A2                     A1 A2 A1 PASS
+6624711 CAMELIA CHOWDHURY                301 089   A2   055 080   B1   054 098   A1   030 083   A2   041 037   D2                     A2 A2 A1 PASS
+6624712 CHIRAG DALMIA                    301 077   B2   055 092   A2   054 058   D1   030 075   B1   041 052   C1                     A2 A2 A2 PASS
+6624713 DISHA JAISWAL                    301 088   A2   055 070   B2   054 087   B1   030 091   A1   041 048   C2                     A1 A2 A2 PASS
+6624714 GAURAV DAGA                      301 072   C1   055 071   B2   054 058   D1   030 076   B1   041 033   D2                     B1 B1 B1 PASS
+6624715 GUNJAN AGRAWAL                   301 095   A1   055 095   A1   054 095   A1   030 096   A1   041 093   A1                     A1 A1 A1 PASS
+6624716 HARSH SANGAI                     301 057   D1   055 060   C2   054 058   D1   030 046   C2   041 039   D1                     B1 B1 B1 PASS
+6624717 HRITHIK JAIN                     301 086   B1   055 087   A2   054 078   B2   030 085   A2   041 049   C2                     A1 A2 B1 PASS
+6624718 KRISHAN AGARWAL                  301 095   A1   055 095   A1   054 092   A2   030 095   A1   041 052   C1                     A1 A1 B1 PASS
+6624719 KUNAL FATEHPURIA                 301 090   A2   055 095   A1   054 095   A1   030 095   A1   041 076   B1                     A1 A1 A1 PASS
+6624720 MANUSHRESHT VERMA                301 092   A2   055 095   A1   054 089   A2   030 094   A1   041 072   B1                     A1 A1 A1 PASS
+6624721 NISHANT CHOUDHARY                301 095   A1   055 087   A2   054 070   C1   030 095   A1   041 078   B1                     A2 A1 A1 PASS
+6624722 PIYUSH GUPTA                     301 090   A2   055 095   A1   054 095   A1   030 095   A1   041 095   A1                     A2 A1 A1 PASS
+6624723 PRIYANSHU BAJORIA                301 093   A2   055 088   A2   054 095   A1   030 095   A1   041 068   B2                     A2 A2 A1 PASS
+6624724 RAJVEER MUNDHRA                  301 094   A1   055 087   A2   054 088   B1   030 091   A1   041 088   A2                     A1 A1 B1 PASS
+6624725 REHAN KHAN                       301 082   B1   055 062   C1   054 084   B1   030 090   A1   041 063   B2                     A1 B1 B1 PASS
+6624726 RISHAB CHOUDHURY                 301 090   A2   055 095   A1   054 094   A2   030 095   A1   041 077   B1                     A1 B1 B1 PASS
+6624727 RITAYAN DUTTAGUPTA               301 095   A1   055 095   A1   054 095   A1   030 095   A1   041 077   B1                     A1 A1 A1 PASS
+6624728 SANCHAY KUMARJAIN                301 091   A2   055 077   B1   054 091   A2   030 092   A1   041 056   C1                     B1 A2 B1 PASS
+6624729 SAURAV BOTHRA                    301 095   A1   055 095   A1   054 095   A1   030 095   A1   041 082   A2                     A1 A1 A1 PASS
+6624730 SAYANDIP DATTA                   301 095   A1   055 094   A1   054 094   A2   030 095   A1   041 091   A2                     A1 A1 A1 PASS
+6624731 SHALINI DE                       301 088   A2   055 095   A1   054 095   A1   030 098   A1   041 094   A1                     A1 A2 A2 PASS
+6624732 SHREYANS BOTHRA                  301 089   A2   055 093   A2   054 080   B2   030 089   A2   041 050   C2                     A1 A1 B1 PASS
+6624733 SHRIYANSH DAGA                   301 084   B1   055 080   B1   054 083   B1   030 084   A2   041 072   B1                     A1 A1 B1 PASS
+6624734 SHUBHAM SARAF                    301 083   B1   055 066   B2   054 080   B2   030 075   B1   041 056   C1                     A1 B1 B1 PASS
+6624735 SIDDHANT SINGAL                  301 095   A1   055 095   A1   054 093   A2   030 095   A1   041 082   A2                     A1 A1 A1 PASS
+6624736 SNEH PODDAR                      301 059   C2   055 072   B2   054 059   D1   030 072   B1   041 043   D1                     A2 A2 B1 PASS
+6624737 SWAGATA CHAKRABORTY              301 093   A2   055 093   A2   054 093   A2   030 095   A1   041 059   C1                     A1 A2 A1 PASS
+6624738 VANSH VIKAS MEHRA                301 095   A1   055 096   A1   054 094   A2   030 095   A1   041 071   B1                     A1 A1 A2 PASS
+6624739 YAMINI MANOT                     301 084   B1   055 095   A1   054 085   B1   030 095   A1   041 065   B2                     A1 A1 A1 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 9
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624740 SAYON ROY BARMAN                 301 070   C1   055 070   B2   054 088   B1   030 094   A1   041 063   B2                     A2 B1 B1 PASS
+6624741 ABHISHEK CHOWDHURY               301 095   A1   042 076   B1   043 084   B1   041 086   A2   083 084   B1   048 089   A1      A2 A1 A1 PASS
+6624742 AISHIK MUKHERJEE                 301 095   A1   042 082   A2   043 071   C1   041 076   B1   083 051   D2   048 082   A2      A2 A1 A2 PASS
+6624743 ANUSUA BHATTACHARYA              301 081   B2   042 093   A1   043 078   B2   041 066   B2   044 090   A2                     B1 A2 A2 PASS
+6624744 ARNESH MANDAL                    301 090   A2   042 072   B2   043 079   B2   041 051   C2   083 077   B2   048 068   C1      A2 A1 A2 PASS
+6624745 ARUKSHITA KAUSHAL                301 091   A2   042 092   A1   043 086   B1   041 083   A2   083 078   B2                     A1 A2 A2 PASS
+6624746 BARSALI DAS                      301 095   A1   042 093   A1   043 094   A2   041 090   A2   044 089   B1                     A2 A2 A2 PASS
+6624747 DEBDATTA ROY                     301 095   A1   042 095   A1   043 095   A1   041 095   A1   044 095   A1                     A2 A2 A1 PASS
+6624748 DEBJANI BARAL                    301 088   A2   042 094   A1   043 092   A2   041 078   B1   044 095   A1                     B1 B1 A2 PASS
+6624749 HARSH JAISWAL                    301 094   A1   042 093   A1   043 090   A2   041 091   A2   083 091   A2   048 085   A2      B1 A2 A2 PASS
+6624750 KANHAIYA PRASAD SAHA             301 095   A1   042 069   C1   043 087   B1   041 074   B1   083 084   B1   048 090   A1      A2 A2 A2 PASS
+6624751 KOMAL CHHAJER                    301 080   B2   042 093   A1   043 089   A2   041 085   A2   083 091   A2                     A2 A2 A2 PASS
+6624752 NABHONIL CHATTERJEE              301 073   C1   042 085   A2   043 083   B1   041 085   A2   083 080   B2   048 079   B1      A2 B1 A2 PASS
+6624753 NIKITA SHARMA                    301 095   A1   042 070   B2   043 069   C1   041 080   A2   083 078   B2   048 088   A1      A2 A2 A2 PASS
+6624754 PURVAYAN MANDAL                  301 078   B2   042 095   A1   043 082   B1   041 069   B1   044 093   A2                     A2 A2 A2 PASS
+6624755 RAUNAK JHUNJHUNWALA              301 091   A2   042 069   C1   043 085   B1   041 078   B1   083 078   B2                     A2 B1 A2 PASS
+6624756 ROHIT AGARWAL                    301 087   B1   042 061   D1   043 076   B2   041 079   A2   083 075   C1   048 073   B2      A2 A1 A1 PASS
+6624757 RUDRIN BASU                      301 089   A2   042 083   A2   043 086   B1   041 071   B1   083 081   B2                     A2 A2 A2 PASS
+6624758 SABARNA SAMANTA                  301 095   A1   042 092   A1   043 095   A1   041 095   A1   044 095   A1                     A1 B1 A1 PASS
+6624759 SAHIL SACHDEVA                   301 093   A2   042 087   A2   043 095   A1   041 095   A1   083 090   A2                     A2 A2 A2 PASS
+6624760 SALONI AGARWAL                   301 086   B1   042 093   A1   043 089   A2   041 077   B1   083 089   A2                     A1 A2 A2 PASS
+6624761 SAMBUDDHA ACHARYA                301 086   B1   042 076   B1   043 072   C1   041 057   C1   044 067   C2                     A2 A2 A1 PASS
+6624762 SAMRIDDHI GUPTA                  301 095   A1   042 085   A2   043 095   A1   041 095   A1   044 092   A2                     A1 B1 A1 PASS
+6624763 SANCHARI BARMAN                  301 079   B2   042 070   B2   043 056   D1   041 041   D1   044 080   B2   048 055   D1      A2 B1 A2 PASS
+6624764 SHALEEN BENGANI                  301 090   A2   042 093   A1   043 093   A2   041 095   A1   083 094   A1                     A1 A2 A1 PASS
+6624765 SHALINI BHATTACHARJEE            301 095   A1   042 074   B2   043 072   C1   041 065   B2   083 086   B1                     A2 B1 A2 PASS
+6624766 SHALINI BISWAS                   301 085   B1   042 075   B2   043 069   C1   041 049   C2   083 069   C2                     A1 A2 A2 PASS
+6624767 SHAMBHAVI MISHRA                 301 088   A2   042 074   B2   043 062   D1   041 065   B2   083 065   C2   048 064   C2      A2 A2 A2 PASS
+6624768 SIDDHI AGARWALA                  301 095   A1   042 096   A1   043 083   B1   041 095   A1   044 095   A1                     A2 A2 A2 PASS
+6624769 SOMAK SANYAL                     301 087   B1   042 061   D1   043 073   C1   041 061   B2   083 092   A2   048 079   B1      A2 A2 A2 PASS
+6624770 SONJOY ROY CHOUDHURY             301 080   B2   042 073   B2   043 068   C1   041 055   C1   044 067   C2                     B1 B1 A2 PASS
+6624771 SRABOITA SARKAR                  301 095   A1   042 067   C1   043 072   C1   041 086   A2   044 085   B1                     B1 B1 A2 PASS
+6624772 SUBHRAJIT CHOWDHURY              301 095   A1   042 094   A1   043 095   A1   041 095   A1   083 091   A2                     A2 A2 A1 PASS
+6624773 SUPRATIK KUMAR SAHA              301 075   B2   042 073   B2   043 061   D1   041 073   B1   083 083   B1                     B1 B1 A2 PASS
+6624774 ZAID ALI NAWAZ                   301 095   A1   042 077   B1   043 062   D1   041 075   B1   044 085   B1                     A2 A2 A2 PASS
+6624775 TRISHA GHOSH                     301 092   A2   042 088   A2   043 095   A1   041 095   A1   044 095   A1                     B1 A2 A1 PASS
+6624776 ABHIRUP SAHA                     301 089   A2   042 095   A1   043 087   B1   041 092   A1   083 090   A2                     A2 A2 A2 PASS
+6624777 ADITYA GUPTA                     301 094   A1   042 069   C1   043 073   C1   041 065   B2   083 076   C1   048 077   B1      A2 A2 A2 PASS
+6624778 ADRIJA BANDYOPADHYAY             301 091   A2   042 079   B1   043 086   B1   041 094   A1   083 088   A2                     A1 A1 A2 PASS
+6624779 AGNEEVO MUKHERJEE                301 082   B1   042 083   A2   043 076   B2   041 062   B2   083 078   B2                     A2 A2 A1 PASS
+6624780 AINDRILA CHATTERJEE              301 095   A1   042 093   A1   043 094   A2   041 095   A1   083 077   B2                     A1 A2 A1 PASS
+6624781 ALISHA ALI                       301 092   A2   042 090   A1   043 086   B1   041 095   A1   083 090   A2                     A1 A1 A1 PASS
+6624782 ANAMITRA SARMA                   301 092   A2   042 093   A1   043 092   A2   041 088   A2   083 091   A2                     A2 A2 A1 PASS
+6624783 ANIRBAN CHAKRABORTY              301 089   A2   042 088   A2   043 076   B2   041 068   B2   083 089   A2                     A2 A2 A1 PASS
+6624784 ANISHKA GUPTA                    301 095   A1   042 095   A1   043 095   A1   041 095   A1   083 096   A1                     A2 A2 A1 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 10
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624785 ANUBHAV ROY                      301 095   A1   042 090   A1   043 094   A2   041 095   A1   083 095   A1                     A1 A2 A1 PASS
+6624786 ARKAPRAVA SINHA                  301 095   A1   042 085   A2   043 094   A2   041 092   A1   083 085   B1                     A1 A2 A1 PASS
+6624787 ARUNANGSHU PRAMANIK              301 089   A2   042 088   A2   043 094   A2   041 095   A1   083 080   B2   048 086   A2      A1 A2 A1 PASS
+6624788 AVIK CHATTERJEE                  301 088   A2   042 073   B2   043 074   B2   041 077   B1   083 079   B2                     A1 A2 A2 PASS
+6624789 AVILASH BASU                     301 089   A2   042 095   A1   043 069   C1   041 095   A1   083 067   C2                     A2 A2 A2 PASS
+6624790 DEBADRI DUTTA                    301 084   B1   042 077   B1   043 086   B1   041 086   A2   083 067   C2                     A2 A2 A1 PASS
+6624791 DEBAYAN SEN GUPTA                301 087   B1   042 076   B1   043 079   B2   041 065   B2   083 083   B1                     A2 A1 A1 PASS
+6624792 DEBJEET BASAK                    301 095   A1   042 090   A1   043 094   A2   041 095   A1   083 095   A1                     A1 A2 A2 PASS
+6624793 DEBPRIYO PAUL                    301 089   A2   042 076   B1   043 083   B1   041 095   A1   083 074   C1                     A2 A2 A2 PASS
+6624794 DEEP TIKADAR                     301 091   A2   042 087   A2   043 074   B2   041 058   C1   083 084   B1                     A1 A2 A1 PASS
+6624795 DEEP BHATTACHARYYA               301 095   A1   042 100   A1   043 099   A1   041 100   A1   083 099   A1                     A1 A1 A1 PASS
+6624796 K ANAND                          301 092   A2   042 080   B1   043 093   A2   041 087   A2   083 072   C1   048 082   A2      A2 A1 A2 PASS
+6624797 MISHA CHAUDHARY                  301 095   A1   042 078   B1   043 073   C1   041 078   B1   083 082   B2                     A2 A1 A1 PASS
+6624798 MRINMAY MUKHERJEE                301 095   A1   042 095   A1   043 097   A1   041 085   A2   083 099   A1                     A1 A2 A2 PASS
+6624799 NAMAN GUPTA                      301 095   A1   042 073   B2   043 072   C1   041 049   C2   083 067   C2   048 087   A2      A2 A2 A1 PASS
+6624800 NIHAL BARMAN                     301 088   A2   042 094   A1   043 094   A2   041 095   A1   083 083   B1                     A2 A2 A1 PASS
+6624801 PARTHAJEET GHOSH                 301 087   B1   042 080   B1   043 078   B2   041 048   C2   083 082   B2                     A2 A2 A2 PASS
+6624802 POOJA BHAUMIK                    301 084   B1   042 081   B1   043 071   C1   041 050   C2   083 082   B2   048 067   C1      A2 A1 A1 PASS
+6624803 RAYAN DUTTA                      301 089   A2   042 078   B1   043 079   B2   041 074   B1   083 083   B1   048 069   C1      A2 A2 A2 PASS
+6624804 SAGNIKA SARKAR                   301 095   A1   042 089   A2   043 076   B2   041 069   B1   083 092   A2                     A2 A2 A2 PASS
+6624805 SAPTARSHI MAJUMDAR               301 086   B1   042 090   A1   043 094   A2   041 080   A2   083 097   A1                     A2 A2 A2 PASS
+6624806 SAYAN MUKHERJEE                  301 090   A2   042 083   A2   043 081   B1   041 081   A2   083 071   C1                     A2 A2 A1 PASS
+6624807 SHREYESH SHARMA                  301 093   A2   042 094   A1   043 083   B1   041 083   A2   083 093   A2                     A2 A2 A1 PASS
+6624808 SOHINI BHATTACHARYYA             301 077   B2   042 061   D1   043 068   C1   041 049   C2   083 082   B2   048 077   B1      A1 A2 A2 PASS
+6624809 SOURYA DASGUPTA                  301 094   A1   042 089   A2   043 074   B2   041 066   B2   083 078   B2                     A2 A2 A2 PASS
+6624810 SUNANDAN BHAKAT                  301 092   A2   042 082   A2   043 082   B1   041 069   B1   083 094   A1   048 085   A2      A2 A2 A2 PASS
+6624811 TITIR SENGUPTA                   301 091   A2   042 081   B1   043 089   A2   041 067   B2   083 086   B1                     A2 A2 A1 PASS
+6624812 ABHISEKH PODDAR                  301 087   B1   042 073   B2   043 078   B2   041 061   B2   044 089   B1   048 073   B2      A2 B1 B1 PASS
+6624813 ADITI KOTHARI                    301 094   A1   042 089   A2   043 076   B2   041 072   B1   044 086   B1                     A1 A2 A1 PASS
+6624814 ANAMIKA ROY                      301 095   A1   042 088   A2   043 095   A1   041 094   A1   044 095   A1                     A1 A2 A2 PASS
+6624815 ANIK PAL                         301 088   A2   042 091   A1   043 074   B2   041 075   B1   044 089   B1                     A2 A2 A1 PASS
+6624816 ANKITA JAIN                      301 095   A1   042 089   A2   043 095   A1   041 074   B1   044 096   A1                     A2 A2 A1 PASS
+6624817 ANKITA MUKHERJEA                 301 092   A2   042 083   A2   043 094   A2   041 079   A2   044 096   A1                     A2 A2 A1 PASS
+6624818 ANUSRITI DAS                     301 095   A1   042 082   A2   043 095   A1   041 071   B1   044 094   A2                     A2 A2 A2 PASS
+6624819 ANWESHA SAHOO                    301 093   A2   042 067   C1   043 069   C1   041 055   C1   044 092   A2                     A2 A2 A1 PASS
+6624820 ARITRAJIT ROY                    301 095   A1   042 084   A2   043 075   B2   041 084   A2   044 089   B1                     A1 A1 A1 PASS
+6624821 ASHMITA MUKHERJEE                301 095   A1   042 089   A2   043 092   A2   041 092   A1   044 095   A1                     A1 A1 A1 PASS
+6624822 AYATAKSHI BARARI                 301 095   A1   042 078   B1   043 083   B1   041 067   B2   044 098   A1                     A2 A2 A2 PASS
+6624823 HIMAYAN SINGHA                   301 095   A1   042 061   D1   043 073   C1   041 050   C2   044 081   B2   048 062   C2      A1 A2 A1 PASS
+6624824 KASHMIRA DEY                     301 093   A2   042 069   C1   043 082   B1   041 052   C1   044 094   A2   048 079   B1      A2 A1 A2 PASS
+6624825 KUMARJIT CHAKRABORTY             301 095   A1   042 094   A1   043 095   A1   041 095   A1   044 096   A1   048 080   B1      A1 A2 A1 PASS
+6624826 GAYATRI VENKATA MULA             301 095   A1   042 087   A2   043 087   B1   041 071   B1   044 087   B1                     A1 B1 A1 PASS
+6624827 MADHULEENA NATH                  301 091   A2   042 076   B1   043 093   A2   041 058   C1   044 087   B1                     B1 A2 A1 PASS
+6624828 MIRSUB JAWAID                    301 083   B1   042 083   A2   043 089   A2   041 048   C2   044 093   A2                     A2 A2 A2 PASS
+6624829 PRANTIK MAJUMDER                 301 094   A1   042 072   B2   043 084   B1   041 065   B2   044 091   A2                     A1 A2 A1 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 11
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624830 RASMIPRABASHA BISWAS             301 087   B1   042 077   B1   043 075   B2   041 057   C1   044 085   B1                     B1 B1 A2 PASS
+6624831 RAYA CHOWDHURY                   301 095   A1   042 068   C1   043 080   B2   041 060   B2   044 092   A2                     A1 A1 A1 PASS
+6624832 RIMA KAR                         301 091   A2   042 072   B2   043 078   B2   041 051   C2   044 089   B1                     B1 A2 A2 PASS
+6624833 ROSHNI MANDAL                    301 095   A1   042 078   B1   043 095   A1   041 093   A1   044 095   A1                     A2 A2 A1 PASS
+6624834 SAHIL AGARWAL                    301 095   A1   042 087   A2   043 090   A2   041 062   B2   044 095   A1                     A1 A1 A2 PASS
+6624835 SAMBIT DAS                       301 089   A2   042 080   B1   043 072   C1   041 048   C2   044 091   A2                     A1 A1 A1 PASS
+6624836 SAMPAD ROY                       301 093   A2   042 064   C2   043 071   C1   041 069   B1   044 085   B1   048 084   A2      A2 A1 A2 PASS
+6624837 SASWAT PAUL                      301 095   A1   042 052   D2   043 068   C1   041 033   D2   044 062   D1   048 078   B1      A2 A1 A2 PASS
+6624838 SHAOLI DAS                       301 094   A1   042 080   B1   043 081   B1   041 072   B1   044 080   B2                     A1 A2 A2 PASS
+6624839 SHARANYA BANERJEE                301 084   B1   042 083   A2   043 090   A2   041 072   B1   044 095   A1                     A2 A2 A2 PASS
+6624840 SHATAVISA PAUL                   301 095   A1   042 083   A2   043 088   B1   041 078   B1   044 091   A2   048 096   A1      A2 A2 A1 PASS
+6624841 SHINJINI GUHA                    301 084   B1   042 061   D1   043 067   C2   041 033   D2   044 072   C1   048 077   B1      A2 A1 A2 PASS
+6624842 SOHAM LAHIRI                     301 087   B1   042 083   A2   043 084   B1   041 058   C1   044 094   A2   048 082   A2      B1 B1 A2 PASS
+6624843 SOUMYADIP PAL                    301 083   B1   042 052   D2   043 070   C1   048 078   B1   044 072   C1   041 012F  E       B1 B1 A2 PASS
+6624844 SOUMYOJIT BASU                   301 090   A2   042 086   A2   043 068   C1   041 058   C1   044 073   C1                     A2 A2 A2 PASS
+6624845 SOURADEEP KUNDU                  301 083   B1   042 077   B1   043 085   B1   041 062   B2   044 093   A2                     A2 A2 A1 PASS
+6624846 SUBHAYAN CHOWDHURY               301 079   B2   042 052   D2   043 066   C2   041 040   D1   044 063   D1   048 072   B2      A2 A2 A1 PASS
+6624847 SUPARNA DATTA                    301 092   A2   042 086   A2   043 090   A2   041 070   B1   044 095   A1                     A2 A2 A1 PASS
+6624848 SUPARNO BANERJEE                 301 095   A1   042 078   B1   043 078   B2   041 068   B2   044 094   A2   048 083   A2      A1 A2 A2 PASS
+6624849 TISTA SEN                        301 090   A2   042 056   D1   043 071   C1   041 039   D1   044 082   B2                     A1 A1 A1 PASS
+6624850 ABHAYA DUBEY                     301 087   B1   055 091   A2   054 095   A1   030 095   A1   065 084   B2                     A1 A2 A1 PASS
+6624851 ADITI JAIN                       301 094   A1   055 091   A2   054 076   B2   030 095   A1   065 083   B2                     A1 A2 A1 PASS
+6624852 ADITYA ANAND                     301 071   C1   055 064   C1   054 050   D2   030 090   A1   065 064   D1                     A2 B1 B2 PASS
+6624853 AGNISWAR MOOKERJEE               301 088   A2   055 078   B1   054 068   C1   030 088   A2   065 078   C1                     A2 B1 A2 PASS
+6624854 AKASH BANERJEE                   301 074   C1   055 076   B1   054 085   B1   030 067   B1   065 087   B1                     A1 A1 A1 PASS
+6624855 AKHILESH CHOWDHARY               301 095   A1   055 094   A1   054 076   B2   030 095   A1   065 089   B1                     A2 A1 A1 PASS
+6624856 ANIRBAN DASS DASS                301            055            054            030            065                                       ABST
+6624857 ANKIT BARMECHA                   301 082   B1   055 075   B1   054 085   B1   030 078   A2   065 086   B1                     A1 A1 A2 PASS
+6624858 ANKITA PATNI                     301 083   B1   055 059   C2   054 054   D1   030 072   B1   065 083   B2                     B1 A2 B1 PASS
+6624859 ANMOL CHOKHANY                   301 085   B1   055 092   A2   054 068   C1   030 081   A2   065 087   B1                     A2 A1 A2 PASS
+6624860 ARIHANT KOTHARI                  301 092   A2   055 095   A1   054 095   A1   030 095   A1   065 097   A1                     A2 A2 A1 PASS
+6624861 ARNAV AGARWAL                    301 095   A1   055 088   A2   054 080   B2   030 095   A1   065 090   B1                     A2 A2 A1 PASS
+6624862 BISHNUPRIYA GHOSH                301 090   A2   055 095   A1   054 095   A1   030 095   A1   065 094   A2                     A2 A2 A1 PASS
+6624863 JEET SARKAR                      301 089   A2   055 087   A2   054 093   A2   030 095   A1   065 095   A1                     A2 A2 A1 PASS
+6624864 KIRTI KHANNA                     301 095   A1   055 087   A2   054 080   B2   030 095   A1   065 093   A2                     A1 A1 A1 PASS
+6624865 MUZAMMIL QURESHI                 301 086   B1   055 055   C2   054 058   D1   030 065   B2   065 076   C1                     B1 A2 A2 PASS
+6624866 OINDRI DUTTA                     301 093   A2   055 095   A1   054 095   A1   030 095   A1   065 096   A1                     A1 A2 A1 PASS
+6624867 PRIYASHA BHAGAT                  301 090   A2   055 070   B2   054 064   C2   030 087   A2   065 092   A2                     A1 A2 A1 PASS
+6624868 PUJA BARMECHA                    301 079   B2   055 071   B2   054 051   D1   030 073   B1   065 075   C2                     A1 A1 A2 PASS
+6624869 RAKSHIT CHAKRAVARTY              301 095   A1   055 088   A2   054 076   B2   030 092   A1   065 092   A2                     A1 A2 A1 PASS
+6624870 RIJU SAHA                        301 082   B1   055 070   B2   054 070   C1   030 066   B2   065 080   C1                     A2 A1 A2 PASS
+6624871 RISHABH JHA                      301 089   A2   055 073   B1   054 080   B2   030 060   B2   065 089   B1                     A2 A1 A1 PASS
+6624872 ROHAN BHALOTIA                   301 084   B1   055 064   C1   054 059   D1   030 059   B2   065 082   B2                     B1 A2 A2 PASS
+6624873 ROHAN BHADANI                    301 076   B2   055 059   C2   054 045   D2   030 011F  E    065 072   C2                     B1 A2 A2 COMP
+6624874 SHAYANTON MUKHERJEE              301 093   A2   055 088   A2   054 069   C1   030 093   A1   065 080   C1                     A2 A1 A2 PASS
+
+CBSE-SENIOR SCHOOL CERTIFICATE EXAMINATION 2015     REGION : BHUBANESWAR    DATE : 25-05-2015   PG : 12
+     
+SCHOOL : 56029 D P S RUBY PARK 254 SHANTI PALLI KOLKATA WB     
+     
+ROLL NO CANDIDATE NAME                   SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD  SUB MRK   GRD     INTL-SUB RESULT
+       
+6624875 SHUBHAM CHOKHANI                 301 081   B2   055 048   D1   054 058   D1   030 055   C1   065 059   D2                     A1 A1 A2 PASS
+6624876 SNEHASISH BISWAS                 301 095   A1   055 076   B1   054 078   B2   030 073   B1   065 086   B1                     A2 A2 A1 PASS
+6624877 SOUMYANETRO MUKHERJEE            301 088   A2   055 085   A2   054 076   B2   030 085   A2   065 084   B2                     A2 A1 A1 PASS
+6624878 SURANJAN GHOSH                   301 083   B1   055 073   B1   054 078   B2   030 095   A1   065 084   B2                     A2 A2 A2 PASS
+6624879 TANAYA MAJUMDER                  301 081   B2   055 078   B1   054 090   A2   030 078   A2   065 084   B2                     B1 A2 A2 PASS
+6624880 VARUN NEWATIA                    301 087   B1   055 081   B1   054 083   B1   030 084   A2   065 073   C2                     B1 B1 B2 PASS
+6624881 VIJAY DEVEN KALWANI              301 089   A2   055 090   A2   054 094   A2   030 095   A1   065 091   A2                     B1 B1 A2 PASS
+6624882 VIKRAMJIT MULLICK                301 095   A1   055 076   B1   054 094   A2   030 073   B1   065 092   A2                     A2 A2 A1 PASS
+6624883 VIRAJ SINGH                      301 077   B2   055 073   B1   054 070   C1   030 065   B2   065 077   C1                     A1 A2 A1 PASS
+6624884 YASH R HINDOCHA                  301 095   A1   055 086   A2   054 073   B2   030 071   B1   065 074   C2                     A1 A1 A1 PASS
+6624885 RAMYA SHUKLA                     301 095   A1   042 094   A1   043 095   A1   041 079   A2   044 095   A1                     A2 A1 A1 PASS
+6624886 SOUMYADEEP SAFUI                 301 082   B1   042 073   B2   043 069   C1   041 033   D2   044 076   C1                     A2 A2 A2 PASS
+6624887 YUGANTAR GUPTA                   301 097   A1   030 098   A1   054 097   A1   055 095   A1   041 081   A2                     A1 A1 A1 PASS
+6624888 UPASAK NASKAR                    301 089   A2   042 061   D1   043 081   B1   041 051   C2   030 089   A2                     A2 A2 A1 PASS
+6624889 VINEET BHAWNANI                  301 088   A2   042 065   C1   043 057   D1   041 039   D1   030 063   B2   048 070   C1      A2 A2 A2 PASS
+6624890 AYON GANGULY                     301 068   C1   042 074   B2   043 070   C1   041 050   C2   030 085   A2   048 073   B2      A2 A2 B1 PASS
+      
+Disclaimer : Neither NIC nor CBSE is responsible for any inadvertent error that may have crept in the results
+being sent through E-mail. The results sent through E-mail are for  immediate information to the examinees. These cannot
+be treated as original mark sheets. Original mark sheets have been issued by the Board separately.
