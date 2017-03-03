@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cbse-graphs.iml" filepath="$PROJECT_DIR$/.idea/modules/cbse-graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cbse-graphs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cbse-graphs_main.iml" group="cbse-graphs" />
+    </modules>
+  </component>
+</project>
