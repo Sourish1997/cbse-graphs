@@ -1,38 +1,40 @@
 package graph;
 
 import java.util.*;
-public class Subject 
+
+public class Subject
 {
     ArrayList < Integer > marks = new ArrayList < Integer > ();
     ArrayList < Integer > marks2 = new ArrayList < Integer > ();
     ArrayList < Integer > fr = new ArrayList < Integer > ();
-    int size, size2;
+    private int size;
+    int size2;
     double mean;
     String name;
-    public Subject(String nm) 
+    Subject(String nm)
     {
         size = marks.size();
         size2 = marks2.size();
         name = nm;
     }
-    public void mean() 
+    private void mean()
     {
         mean = 0;
         for (int m: marks)
             mean += m;
         mean = mean / marks.size();
     }
-    public void update() 
+    private void update()
     {
         size = marks.size();
         size2 = marks2.size();
     }
-    public void addMarks(int mark) 
+    void addMarks(int mark)
     {
         marks.add(mark);
         update();
     }
-    public void computeData() 
+    void computeData()
     {
         for (int a = 0; a <= 100; a++) 
         {

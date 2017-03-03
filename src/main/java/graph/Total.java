@@ -9,23 +9,23 @@ import org.jfree.data.category.*;
 
 public class Total 
 {
-    String f;
+    private String fileName;
     public ChartPanel panel;
-    DefaultCategoryDataset data = new DefaultCategoryDataset();
+    private DefaultCategoryDataset data = new DefaultCategoryDataset();
     public double mean;
     public Total(String nm) 
     {
-        f = nm;
+        fileName = nm;
         computeTotal();
     }
-    public void computeTotal() 
+    private void computeTotal()
     {
         ArrayList < Double > total = new ArrayList < Double > ();
         ArrayList < Double > total2 = new ArrayList < Double > ();
         ArrayList < Integer > fr = new ArrayList < Integer > ();
         try 
         {
-            BufferedReader obj = new BufferedReader(new FileReader("data/" + f + "_Edited.TXT"));
+            BufferedReader obj = new BufferedReader(new FileReader("data/" + fileName + "_Edited.TXT"));
             String line;
             while ((line = obj.readLine()) != null) 
             {

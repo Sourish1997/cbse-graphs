@@ -4,14 +4,15 @@ import java.awt.*;
 import org.jfree.chart.*;
 import org.jfree.chart.plot.*;
 import org.jfree.data.category.*;
-public class Graph 
+
+public class Graph
 {
     public ChartPanel panel;
-    DefaultCategoryDataset data = new DefaultCategoryDataset();
+    private DefaultCategoryDataset data = new DefaultCategoryDataset();
     public String nm;
     public double mn;
 
-    public void createGraph(Subject obj)
+    void createGraph(Subject obj)
     {
         nm = obj.name;
         mn = obj.mean;
