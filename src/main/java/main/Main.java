@@ -8,8 +8,7 @@ import graph.Graph;
 import graph.Sorter;
 import graph.Total;
 
-public class Main extends JPanel
-{
+public class Main extends JPanel {
     private static JMenuBar menuBar;
     private static JMenu menus[];
     private static JMenuItem menuItems[];
@@ -18,8 +17,7 @@ public class Main extends JPanel
     private static Main mainPanel;
     private static String fname;
     private static Graph[] grph;
-    private static void init()
-    {
+    private static void init() {
         menuBar = new JMenuBar();
         menus = new JMenu[2];
         menuItems = new JMenuItem[4];
@@ -45,15 +43,13 @@ public class Main extends JPanel
                 fname = JOptionPane.showInputDialog("Enter file name(excluding extension): ");
                 if (fname == null) 
                     return;
-                if (!fname.equals(""))
-                {
+                if (!fname.equals("")) {
                     Sorter sort = new Sorter(fname);
                     grph = sort.returnGraphs();
                     if (grph == null) 
                         return;
                     panels = new JPanel[grph.length];
-                    for (int a = 0; a < grph.length; a++) 
-                    {
+                    for (int a = 0; a < grph.length; a++) {
                         panels[a] = new JPanel();
                         panels[a].removeAll();
                         panels[a].setLayout(new BorderLayout());
@@ -70,8 +66,7 @@ public class Main extends JPanel
                     totp.add(new JLabel("Mean: " + tot.mean), BorderLayout.SOUTH);
                     totp.validate();
                     tabbedPane.add("Total Percentage", totp);
-                    for (int a = 0; a < panels.length; a++)
-                    {
+                    for (int a = 0; a < panels.length; a++) {
                         tabbedPane.add(grph[a].nm, panels[a]);
                     }
                     mainPanel.removeAll();
@@ -108,8 +103,7 @@ public class Main extends JPanel
         this.setLayout(new BorderLayout());
     }
 
-    public static void main(String args[]) 
-    {
+    public static void main(String args[]) {
         try {
             for (UIManager.LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
                 if ("Nimbus".equals(info.getName())) {
