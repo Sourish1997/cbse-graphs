@@ -17,8 +17,11 @@ local.properties
 *.log
 
 # Intellij
-*.iml
 .idea/workspace.xml
+.idea/uiDesigner.xml
+.idea/tasks.xml
+.idea/vcs.xml
+.idea/gradle.xml
 .idea/libraries
 
 # Keystore files
