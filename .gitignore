@@ -23,6 +23,11 @@ local.properties
 .idea/vcs.xml
 .idea/gradle.xml
 .idea/libraries
+.idea/.name
+.idea/modules/cbse-graphs_test.iml
+
+src/main/resources/
+src/test/
 
 # Keystore files
 *.jks
